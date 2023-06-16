@@ -1,0 +1,1 @@
+ALTER TABLE `enquiry_master` ADD `class_id` INT(11) NOT NULL AFTER `enq_name`;

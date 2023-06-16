@@ -1,0 +1,11 @@
+p,h1,h2,h3,h4,h6,h5,span,a,div{font-family: 'Play', sans-serif !important;}
+.w3-bar-block .w3-bar-item {
+    width: 100%;
+    display: block;
+    padding: 10px 25px !important;
+    text-align: left;
+    border: none;
+    white-space: normal;
+    float: none;
+    outline: 0;
+}

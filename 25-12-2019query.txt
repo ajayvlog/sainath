@@ -1,0 +1,10 @@
+ALTER TABLE `m_employee` ADD `password` VARCHAR(100) NOT NULL AFTER `biometric_id`;
+
+
+CREATE TABLE `cips_software`.`assign_subject` ( `assign_id` INT NOT NULL AUTO_INCREMENT , `employee_id` INT NOT NULL , `stu_subject_id` INT NOT NULL , `ipaddress` VARCHAR(100) NOT NULL , `createdby` INT NOT NULL , `createdate` DATE NOT NULL , `sessionid` INT NOT NULL , `lastupdated` DATE NOT NULL , PRIMARY KEY (`assign_id`)) ENGINE = InnoDB;
+
+CREATE TABLE `cips_software`.`subject_attendence` ( `app_attend_id` INT NOT NULL AUTO_INCREMENT , `attendate` DATE NOT NULL , `transferid` INT NOT NULL , `class_id` INT NOT NULL , `sem_id` INT NOT NULL , `stu_subject_id` INT NOT NULL , PRIMARY KEY (`app_attend_id`)) ENGINE = InnoDB;
+
+ALTER TABLE `app_subject_attendence` CHANGE `attendate` `attendate` VARCHAR(10) NOT NULL;
+
+ALTER TABLE `app_subject_attendence` ADD `employee_id` INT NOT NULL AFTER `app_attend_id`;

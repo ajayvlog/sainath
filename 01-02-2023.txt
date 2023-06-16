@@ -1,0 +1,1 @@
+ALTER TABLE `scholer_ship` ADD `dis_id` INT NOT NULL AFTER `result`;

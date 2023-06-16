@@ -1,0 +1,5 @@
+CREATE TABLE `cips_software`.`m_holiday` ( `holiday_id` INT NOT NULL AUTO_INCREMENT , `holiday_name` VARCHAR(100) NOT NULL , `holiday_date` DATE NOT NULL , `createdby` INT NOT NULL , `createdate` DATE NOT NULL , `lastupdated` DATE NOT NULL , `sessionid` INT NOT NULL , PRIMARY KEY (`holiday_id`)) ENGINE = InnoDB;
+
+ALTER TABLE `m_holiday` ADD `ipaddress` VARCHAR(100) NOT NULL AFTER `lastupdated`;
+
+ALTER TABLE `emp_salary` ADD `no_of_holiday` VARCHAR(100) NOT NULL AFTER `id_no`;

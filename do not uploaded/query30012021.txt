@@ -1,0 +1,9 @@
+ALTER TABLE `transfer_certificate` CHANGE `behavior` `behavior` TEXT CHARACTER SET utf8 COLLATE utf8_bin NOT NULL;
+
+ALTER TABLE `transfer_certificate` CHANGE `status` `status` TEXT CHARACTER SET utf8 COLLATE utf8_bin NOT NULL;
+
+ALTER TABLE `transfer_certificate` ADD `course_name` VARCHAR(255) NOT NULL AFTER `mother_name`;
+
+ALTER TABLE `transfer_certificate` ADD `from_yearsem` VARCHAR(255) NOT NULL AFTER `course_name`;
+
+ALTER TABLE `transfer_certificate` ADD `to_yearsem` VARCHAR(255) NOT NULL AFTER `from_yearsem`;

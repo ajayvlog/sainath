@@ -1,0 +1,174 @@
+[14-Sep-2019 15:02:06 UTC] PHP Notice:  Undefined variable: obj in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 56
+[14-Sep-2019 15:02:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 56
+[20-Sep-2019 08:25:09 UTC] PHP Warning:  include(../adminsession.php): failed to open stream: No such file or directory in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 1
+[20-Sep-2019 08:25:09 UTC] PHP Warning:  include(): Failed opening '../adminsession.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 1
+[20-Sep-2019 08:25:09 UTC] PHP Notice:  Undefined variable: obj in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 8
+[20-Sep-2019 08:25:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 8
+[20-Sep-2019 08:25:10 UTC] PHP Warning:  include(../adminsession.php): failed to open stream: No such file or directory in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 1
+[20-Sep-2019 08:25:10 UTC] PHP Warning:  include(): Failed opening '../adminsession.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 1
+[20-Sep-2019 08:25:10 UTC] PHP Notice:  Undefined variable: obj in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 8
+[20-Sep-2019 08:25:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 8
+[20-Sep-2019 08:26:03 UTC] PHP Warning:  include(../adminsession.php): failed to open stream: No such file or directory in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 1
+[20-Sep-2019 08:26:03 UTC] PHP Warning:  include(): Failed opening '../adminsession.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 1
+[20-Sep-2019 08:26:03 UTC] PHP Notice:  Undefined variable: obj in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 8
+[20-Sep-2019 08:26:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 8
+[20-Sep-2019 08:26:04 UTC] PHP Warning:  include(../adminsession.php): failed to open stream: No such file or directory in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 1
+[20-Sep-2019 08:26:04 UTC] PHP Warning:  include(): Failed opening '../adminsession.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 1
+[20-Sep-2019 08:26:04 UTC] PHP Notice:  Undefined variable: obj in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 8
+[20-Sep-2019 08:26:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 8
+[20-Sep-2019 08:26:08 UTC] PHP Warning:  include(../adminsession.php): failed to open stream: No such file or directory in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 1
+[20-Sep-2019 08:26:08 UTC] PHP Warning:  include(): Failed opening '../adminsession.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 1
+[20-Sep-2019 08:26:08 UTC] PHP Notice:  Undefined variable: obj in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 8
+[20-Sep-2019 08:26:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 8
+[20-Sep-2019 08:26:08 UTC] PHP Warning:  include(../adminsession.php): failed to open stream: No such file or directory in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 1
+[20-Sep-2019 08:26:08 UTC] PHP Warning:  include(): Failed opening '../adminsession.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 1
+[20-Sep-2019 08:26:08 UTC] PHP Notice:  Undefined variable: obj in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 8
+[20-Sep-2019 08:26:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 8
+[20-Sep-2019 08:26:09 UTC] PHP Warning:  include(../adminsession.php): failed to open stream: No such file or directory in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 1
+[20-Sep-2019 08:26:09 UTC] PHP Warning:  include(): Failed opening '../adminsession.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 1
+[20-Sep-2019 08:26:09 UTC] PHP Notice:  Undefined variable: obj in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 8
+[20-Sep-2019 08:26:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 8
+[20-Sep-2019 08:26:09 UTC] PHP Warning:  include(../adminsession.php): failed to open stream: No such file or directory in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 1
+[20-Sep-2019 08:26:09 UTC] PHP Warning:  include(): Failed opening '../adminsession.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 1
+[20-Sep-2019 08:26:09 UTC] PHP Notice:  Undefined variable: obj in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 8
+[20-Sep-2019 08:26:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 8
+[20-Sep-2019 08:26:09 UTC] PHP Warning:  include(../adminsession.php): failed to open stream: No such file or directory in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 1
+[20-Sep-2019 08:26:09 UTC] PHP Warning:  include(): Failed opening '../adminsession.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 1
+[20-Sep-2019 08:26:09 UTC] PHP Notice:  Undefined variable: obj in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 8
+[20-Sep-2019 08:26:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 8
+[20-Sep-2019 08:26:09 UTC] PHP Warning:  include(../adminsession.php): failed to open stream: No such file or directory in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 1
+[20-Sep-2019 08:26:09 UTC] PHP Warning:  include(): Failed opening '../adminsession.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 1
+[20-Sep-2019 08:26:09 UTC] PHP Notice:  Undefined variable: obj in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 8
+[20-Sep-2019 08:26:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 8
+[20-Sep-2019 08:26:09 UTC] PHP Warning:  include(../adminsession.php): failed to open stream: No such file or directory in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 1
+[20-Sep-2019 08:26:09 UTC] PHP Warning:  include(): Failed opening '../adminsession.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 1
+[20-Sep-2019 08:26:09 UTC] PHP Notice:  Undefined variable: obj in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 8
+[20-Sep-2019 08:26:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 8
+[20-Sep-2019 08:26:10 UTC] PHP Warning:  include(../adminsession.php): failed to open stream: No such file or directory in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 1
+[20-Sep-2019 08:26:10 UTC] PHP Warning:  include(): Failed opening '../adminsession.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 1
+[20-Sep-2019 08:26:10 UTC] PHP Notice:  Undefined variable: obj in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 8
+[20-Sep-2019 08:26:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 8
+[20-Sep-2019 08:26:10 UTC] PHP Warning:  include(../adminsession.php): failed to open stream: No such file or directory in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 1
+[20-Sep-2019 08:26:10 UTC] PHP Warning:  include(): Failed opening '../adminsession.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 1
+[20-Sep-2019 08:26:10 UTC] PHP Notice:  Undefined variable: obj in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 8
+[20-Sep-2019 08:26:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 8
+[20-Sep-2019 08:26:10 UTC] PHP Warning:  include(../adminsession.php): failed to open stream: No such file or directory in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 1
+[20-Sep-2019 08:26:10 UTC] PHP Warning:  include(): Failed opening '../adminsession.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 1
+[20-Sep-2019 08:26:10 UTC] PHP Notice:  Undefined variable: obj in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 8
+[20-Sep-2019 08:26:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 8
+[20-Sep-2019 08:26:10 UTC] PHP Warning:  include(../adminsession.php): failed to open stream: No such file or directory in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 1
+[20-Sep-2019 08:26:10 UTC] PHP Warning:  include(): Failed opening '../adminsession.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 1
+[20-Sep-2019 08:26:10 UTC] PHP Notice:  Undefined variable: obj in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 8
+[20-Sep-2019 08:26:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 8
+[20-Sep-2019 08:26:11 UTC] PHP Warning:  include(../adminsession.php): failed to open stream: No such file or directory in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 1
+[20-Sep-2019 08:26:11 UTC] PHP Warning:  include(): Failed opening '../adminsession.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 1
+[20-Sep-2019 08:26:11 UTC] PHP Notice:  Undefined variable: obj in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 8
+[20-Sep-2019 08:26:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 8
+[20-Sep-2019 08:26:12 UTC] PHP Warning:  include(../adminsession.php): failed to open stream: No such file or directory in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 1
+[20-Sep-2019 08:26:12 UTC] PHP Warning:  include(): Failed opening '../adminsession.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 1
+[20-Sep-2019 08:26:12 UTC] PHP Notice:  Undefined variable: obj in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 8
+[20-Sep-2019 08:26:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 8
+[20-Sep-2019 08:28:09 UTC] PHP Warning:  include(../adminsession.php): failed to open stream: No such file or directory in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 1
+[20-Sep-2019 08:28:09 UTC] PHP Warning:  include(): Failed opening '../adminsession.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 1
+[20-Sep-2019 08:28:09 UTC] PHP Notice:  Undefined variable: obj in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 8
+[20-Sep-2019 08:28:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 8
+[20-Sep-2019 08:28:17 UTC] PHP Warning:  include(../adminsession.php): failed to open stream: No such file or directory in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 1
+[20-Sep-2019 08:28:17 UTC] PHP Warning:  include(): Failed opening '../adminsession.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 1
+[20-Sep-2019 08:28:17 UTC] PHP Notice:  Undefined variable: obj in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 8
+[20-Sep-2019 08:28:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 8
+[20-Sep-2019 08:31:29 UTC] PHP Warning:  include(../adminsession.php): failed to open stream: No such file or directory in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 1
+[20-Sep-2019 08:31:29 UTC] PHP Warning:  include(): Failed opening '../adminsession.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 1
+[20-Sep-2019 08:31:29 UTC] PHP Notice:  Undefined variable: obj in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 8
+[20-Sep-2019 08:31:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 8
+[20-Sep-2019 08:42:32 UTC] PHP Warning:  include(../adminsession.php): failed to open stream: No such file or directory in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 1
+[20-Sep-2019 08:42:32 UTC] PHP Warning:  include(): Failed opening '../adminsession.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 1
+[20-Sep-2019 08:42:32 UTC] PHP Notice:  Undefined variable: obj in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 8
+[20-Sep-2019 08:42:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 8
+[20-Sep-2019 08:42:33 UTC] PHP Warning:  include(../adminsession.php): failed to open stream: No such file or directory in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 1
+[20-Sep-2019 08:42:33 UTC] PHP Warning:  include(): Failed opening '../adminsession.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 1
+[20-Sep-2019 08:42:33 UTC] PHP Notice:  Undefined variable: obj in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 8
+[20-Sep-2019 08:42:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/index.php on line 8
+[20-Sep-2019 14:39:57 Asia/Kolkata] PHP Notice:  Undefined variable: host_name in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/config.php on line 27
+[20-Sep-2019 14:39:57 Asia/Kolkata] PHP Notice:  Undefined variable: db_user in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/config.php on line 27
+[20-Sep-2019 14:39:57 Asia/Kolkata] PHP Notice:  Undefined variable: db_pwd in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/config.php on line 27
+[20-Sep-2019 14:39:57 Asia/Kolkata] PHP Notice:  Undefined variable: db_name in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/config.php on line 27
+[20-Sep-2019 14:39:57 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'b8w2zhkfh9u3'@'localhost' (using password: NO) in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/config.php on line 27
+[20-Sep-2019 14:40:10 Asia/Kolkata] PHP Notice:  Undefined variable: host_name in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/config.php on line 27
+[20-Sep-2019 14:40:10 Asia/Kolkata] PHP Notice:  Undefined variable: db_user in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/config.php on line 27
+[20-Sep-2019 14:40:10 Asia/Kolkata] PHP Notice:  Undefined variable: db_pwd in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/config.php on line 27
+[20-Sep-2019 14:40:10 Asia/Kolkata] PHP Notice:  Undefined variable: db_name in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/config.php on line 27
+[20-Sep-2019 14:40:10 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'b8w2zhkfh9u3'@'localhost' (using password: NO) in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/config.php on line 27
+[20-Sep-2019 14:42:56 Asia/Kolkata] PHP Notice:  Undefined variable: host_name in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/config.php on line 27
+[20-Sep-2019 14:42:56 Asia/Kolkata] PHP Notice:  Undefined variable: db_user in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/config.php on line 27
+[20-Sep-2019 14:42:56 Asia/Kolkata] PHP Notice:  Undefined variable: db_pwd in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/config.php on line 27
+[20-Sep-2019 14:42:56 Asia/Kolkata] PHP Notice:  Undefined variable: db_name in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/config.php on line 27
+[20-Sep-2019 14:42:56 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'b8w2zhkfh9u3'@'localhost' (using password: NO) in /home/b8w2zhkfh9u3/public_html/projects/cipssoft/config.php on line 27

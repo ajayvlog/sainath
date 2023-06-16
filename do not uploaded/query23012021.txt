@@ -1,0 +1,3 @@
+ALTER TABLE `m_student_reg` ADD `percent_10` FLOAT NOT NULL AFTER `obtain_mark_10`;
+ALTER TABLE `m_student_reg` ADD `percent_12` FLOAT NOT NULL AFTER `obtain_mark_12`;
+ALTER TABLE `m_student_reg` ADD `other_percent` FLOAT NOT NULL AFTER `other_obtain_mark`;

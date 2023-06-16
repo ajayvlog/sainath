@@ -1,0 +1,6 @@
+CREATE TABLE `sainath`.`charcter_certificate` ( `cc_id` INT(11) NOT NULL AUTO_INCREMENT , `sem_id` INT(11) NOT NULL , `m_student_reg_id` INT(11) NOT NULL , `session_id` INT(11) NOT NULL , `createdate` DATE NOT NULL , `ipaddress` VARCHAR(30) NOT NULL , `createdby` INT(11) NOT NULL , `lastupdated` DATE NOT NULL , PRIMARY KEY (`cc_id`)) ENGINE = InnoDB;
+
+
+ALTER TABLE `charcter_certificate` CHANGE `session_id` `sessionid` INT(11) NOT NULL;
+
+CREATE TABLE `sainath`.`transfer_certificate` ( `tc_id` INT(11) NOT NULL AUTO_INCREMENT , `m_student_reg_id` INT(11) NOT NULL , `participation_date` DATE NOT NULL , `status` VARCHAR(255) NOT NULL , `character` VARCHAR(255) NOT NULL , `feesdate` DATE NOT NULL , `createdby` INT(11) NOT NULL , `createdate` DATE NOT NULL , `ipaddress` VARCHAR(30) NOT NULL , `lastupdated` DATE NOT NULL , PRIMARY KEY (`tc_id`)) ENGINE = InnoDB;

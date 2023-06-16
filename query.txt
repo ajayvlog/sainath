@@ -1,0 +1,15 @@
+CREATE TABLE `sainath`.`complicaction_certificate` ( `cc_id` INT NOT NULL AUTO_INCREMENT , `m_student_reg_id` INT NOT NULL , `father_name` VARCHAR(250) NOT NULL , `admission_year` VARCHAR(100) NOT NULL , `course_name` VARCHAR(100) NOT NULL , `address` VARCHAR(500) NOT NULL , `district` VARCHAR(250) NOT NULL , `t_day` DATE NOT NULL , `app_no` VARCHAR(200) NOT NULL , `enroll_no` VARCHAR(100) NOT NULL , `d_o_m_issue` DATE NOT NULL , `createdate` DATE NOT NULL , `lastupdated` DATE NOT NULL , `ipaddress` VARCHAR(100) NOT NULL , PRIMARY KEY (`cc_id`)) ENGINE = InnoDB;
+
+
+
+ALTER TABLE `complicaction_certificate` ADD `print_copy` INT NOT NULL AFTER `address`;
+
+ALTER TABLE `complicaction_certificate` ADD `certificate_type` VARCHAR(250) NOT NULL AFTER `ipaddress`;
+
+
+CREATE TABLE `sainath`.`student_info` ( `stu_id` INT NOT NULL AUTO_INCREMENT , `m_student_reg_id` INT NOT NULL , `father_name` VARCHAR(250) NOT NULL , `mother_name` VARCHAR(250) NOT NULL , `course_name` VARCHAR(150) NOT NULL , `admission_year` VARCHAR(50) NOT NULL , `app_no` VARCHAR(100) NOT NULL , `category` VARCHAR(100) NOT NULL , `scholer_no` VARCHAR(250) NOT NULL , `password` VARCHAR(100) NOT NULL , `doa` DATE NOT NULL , `dob` DATE NOT NULL , `aadhar_no` VARCHAR(15) NOT NULL , `gender` VARCHAR(15) NOT NULL , `domicile` VARCHAR(100) NOT NULL , `address` VARCHAR(255) NOT NULL , `ward_no` VARCHAR(100) NOT NULL , `tehsil` VARCHAR(200) NOT NULL , `post_office` VARCHAR(250) NOT NULL , `district` VARCHAR(200) NOT NULL , `pincode` VARCHAR(15) NOT NULL , `stu_mobile` VARCHAR(15) NOT NULL , `mobile` VARCHAR(15) NOT NULL , `board_name_10` VARCHAR(500) NOT NULL , `pass_year_10` VARCHAR(100) NOT NULL , `roll_10` VARCHAR(20) NOT NULL , `subject_10` VARCHAR(200) NOT NULL , `tot_mark_10` FLOAT NOT NULL , `obtain_mark_10` FLOAT NOT NULL , `percent_10` FLOAT NOT NULL , `board_name_12` VARCHAR(200) NOT NULL , `pass_year_12` VARCHAR(100) NOT NULL , `roll_12` VARCHAR(60) NOT NULL , `subject_12` VARCHAR(250) NOT NULL , `tot_mark_12` FLOAT NOT NULL , `obtain_mark_12` FLOAT NOT NULL , `percent_12` FLOAT NOT NULL , `other_course_name` VARCHAR(200) NOT NULL , `other_board_name` VARCHAR(200) NOT NULL , `other_pass_year` VARCHAR(100) NOT NULL , `other_roll` VARCHAR(15) NOT NULL , `other_subject` VARCHAR(200) NOT NULL , `other_tot_mark` FLOAT NOT NULL , `other_obtain_mark` FLOAT NOT NULL , `other_percent` FLOAT NOT NULL , `createdate` DATE NOT NULL , `ipaddress` VARCHAR(50) NOT NULL , PRIMARY KEY (`stu_id`)) ENGINE = InnoDB;
+
+
+
+
+

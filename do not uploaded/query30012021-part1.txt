@@ -1,0 +1,1 @@
+ALTER TABLE `enquiry_master` ADD `category_id` INT(11) NOT NULL AFTER `con_id`;
